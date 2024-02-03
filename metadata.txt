@@ -1,0 +1,1 @@
+he landscapes were generated using the NLMR package in R v4.3 software. Each landscape has dimensions of 50x50 cells, and the percentage of forest cover is fixed at 30%. It's important to note that in these simulated landscapes, the value of forest patches is represented as 0, and users should convert these values to 1 for further analysis.
